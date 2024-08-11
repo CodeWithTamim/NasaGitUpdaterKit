@@ -1,6 +1,7 @@
 # Thanks For Using NasaGitUpdaterKit
 ## This library can be used to show auto update dialog and update your app from github releases.
-## Follow the documentation below to know how to use the library
+## Follow the documentation below to know how to use the library. It's super light weight and
+the size of the library is approximately 17.40 kB
 
 ### Step 0: Add this to your project gradle
 #### `settings.gradle`
